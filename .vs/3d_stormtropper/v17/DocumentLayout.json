@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EPSI\\metadata\\3Dstormtropper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C869628-53FA-4F15-A13B-06B40BB24AEF}|3d_stormtropper\\3d_stormtropper.esproj|c:\\epsi\\metadata\\3dstormtropper\\3d_stormtropper\\src\\aframescene.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C869628-53FA-4F15-A13B-06B40BB24AEF}|3d_stormtropper\\3d_stormtropper.esproj|solutionrelative:3d_stormtropper\\src\\aframescene.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C869628-53FA-4F15-A13B-06B40BB24AEF}|3d_stormtropper\\3d_stormtropper.esproj|c:\\epsi\\metadata\\3dstormtropper\\3d_stormtropper\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C869628-53FA-4F15-A13B-06B40BB24AEF}|3d_stormtropper\\3d_stormtropper.esproj|solutionrelative:3d_stormtropper\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\EPSI\\metadata\\3Dstormtropper\\3d_stormtropper\\src\\App.jsx",
+              "RelativeDocumentMoniker": "3d_stormtropper\\src\\App.jsx",
+              "ToolTip": "C:\\EPSI\\metadata\\3Dstormtropper\\3d_stormtropper\\src\\App.jsx",
+              "RelativeToolTip": "3d_stormtropper\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-03T12:17:11.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AFrameScene.jsx",
+              "DocumentMoniker": "C:\\EPSI\\metadata\\3Dstormtropper\\3d_stormtropper\\src\\AFrameScene.jsx",
+              "RelativeDocumentMoniker": "3d_stormtropper\\src\\AFrameScene.jsx",
+              "ToolTip": "C:\\EPSI\\metadata\\3Dstormtropper\\3d_stormtropper\\src\\AFrameScene.jsx",
+              "RelativeToolTip": "3d_stormtropper\\src\\AFrameScene.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-03T12:17:01.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
